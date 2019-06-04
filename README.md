@@ -1,7 +1,6 @@
 # bpf-workshop
 (c|e)BFP workshop for Velocity 2019
 
-# container-monitoring-workshop
 ## Background reading
 [This background slidedeck]() covers all the basics of containers that will assist in this workshop;
 * What is cBPF
