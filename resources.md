@@ -1,12 +1,14 @@
 # Introduction to cBPF (Classic BPF)
 * [The BSD Packet Filter: A New Architecture for User-level Packet Capture](http://www.tcpdump.org/papers/bpf-usenix93.pdf)
 * [BPF: the universal in-kernel virtual machine](https://lwn.net/Articles/599755/) (Jonathan Corbet)
+* [Back to the future with eBPF](https://static.sched.com/hosted_files/kccnceu19/b8/KubeCon-Europe-2019-Beatriz_Martinez_eBPF.pdf) ([video](https://www.youtube.com/watch?v=AQNz_16CaiI&feature=youtu.be))
 * [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) (Wikipedia)
 
 # Introduction to eBPF
 * [A thorough introduction to eBPF](https://lwn.net/Articles/740157/) (lwn.net)
 * [An intro to using eBPF to filter packets in the Linux kernel](https://opensource.com/article/17/9/intro-ebpf) (Opensource.com)
 * [A brief introduction to XDP and eBPF](https://blogs.igalia.com/dpino/2019/01/07/a-brief-introduction-to-xdp-and-ebpf/)
+* [BPF and XDP Reference Guide](https://docs.cilium.io/en/v1.5/bpf/)
 * [Notes on BPF & eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
 * [A general introduction from eBPF](https://schd.ws/hosted_files/osseu17/7e/a-gentle-introduction-to-ebpf.pdf)
 * [An eBPF overview, part 1: Introduction]()
@@ -16,6 +18,8 @@
 * [Cilium BPF Newsletters](https://cilium.io/blog/categories/bpf%20newsletter/)
 
 # BPF in the real world
+## Chaos Engineering
+* [Transparent Chaos Testing with Envoy, Cilium, and eBPF (https://docs.google.com/presentation/d/1gMlmXqH6ufnb8eNO10WqVjqrPRGAO5-1S1zjcGo1Zr4/edit#slide=id.g5a4a43c37e_0_238)
 ## Firewalls
 * [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/)
 ## Observability
