@@ -11,7 +11,11 @@
 * [BPF and XDP Reference Guide](https://docs.cilium.io/en/v1.5/bpf/)
 * [Notes on BPF & eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
 * [A general introduction from eBPF](https://schd.ws/hosted_files/osseu17/7e/a-gentle-introduction-to-ebpf.pdf)
-* [An eBPF overview, part 1: Introduction]()
+* [An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
+* [An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
+* [An eBPF overview, part 3: Walking up the software stack](https://www.collabora.com/news-and-blog/blog/2019/04/26/an-ebpf-overview-part-3-walking-up-the-software-stack/)
+* [An eBPF overview, part 4: Working with embedded systems](https://www.collabora.com/news-and-blog/blog/2019/05/06/an-ebpf-overview-part-4-working-with-embedded-systems/)
+* [An eBPF overview, part 5: Tracing user processes](https://www.collabora.com/news-and-blog/blog/2019/05/14/an-ebpf-overview-part-5-tracing-user-processes/)
 * [Linux Kernel BPF Documentation](https://www.kernel.org/doc/Documentation/networking/filter.txt)
 
 # Other
