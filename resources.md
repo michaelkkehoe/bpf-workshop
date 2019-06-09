@@ -3,6 +3,7 @@
 * [BPF: the universal in-kernel virtual machine](https://lwn.net/Articles/599755/) (Jonathan Corbet)
 * [Back to the future with eBPF](https://static.sched.com/hosted_files/kccnceu19/b8/KubeCon-Europe-2019-Beatriz_Martinez_eBPF.pdf) ([video](https://www.youtube.com/watch?v=AQNz_16CaiI&feature=youtu.be))
 * [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) (Wikipedia)
+* [Linux Socket FIlter](http://www.cs.columbia.edu/~nahum/w6998/lectures/vpk-columbia-nsdi-lsf.pdf)
 
 # Introduction to eBPF
 * [A thorough introduction to eBPF](https://lwn.net/Articles/740157/) (lwn.net)
