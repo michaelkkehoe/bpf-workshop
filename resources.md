@@ -6,6 +6,7 @@
 * [Linux Socket FIlter](http://www.cs.columbia.edu/~nahum/w6998/lectures/vpk-columbia-nsdi-lsf.pdf)
 
 # Introduction to eBPF
+* [Trace Aggregation and Collection](http://hsdm.dorsal.polymtl.ca/system/files/eBPF-5May2017%20%281%29.pdf)
 * [A thorough introduction to eBPF](https://lwn.net/Articles/740157/) (lwn.net)
 * [An intro to using eBPF to filter packets in the Linux kernel](https://opensource.com/article/17/9/intro-ebpf) (Opensource.com)
 * [A brief introduction to XDP and eBPF](https://blogs.igalia.com/dpino/2019/01/07/a-brief-introduction-to-xdp-and-ebpf/)
