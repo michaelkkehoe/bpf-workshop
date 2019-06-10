@@ -1,3 +1,5 @@
+[Awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/blob/master/readme.md)
+
 # Introduction to cBPF (Classic BPF)
 * [The BSD Packet Filter: A New Architecture for User-level Packet Capture](http://www.tcpdump.org/papers/bpf-usenix93.pdf)
 * [BPF: the universal in-kernel virtual machine](https://lwn.net/Articles/599755/) (Jonathan Corbet)
