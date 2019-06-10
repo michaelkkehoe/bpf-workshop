@@ -1,4 +1,6 @@
-[Awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/blob/master/readme.md)
+# Other reading lists
+* [Awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/blob/master/readme.md)
+* [Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 
 # Introduction to cBPF (Classic BPF)
 * [The BSD Packet Filter: A New Architecture for User-level Packet Capture](http://www.tcpdump.org/papers/bpf-usenix93.pdf)
