@@ -10,10 +10,12 @@
 * Details on eBPF
 * eBPF uses
 
-## The Workshop
-Use these [provided slides](TODO)
-
 ## Quickstart
+Read the document [here](quickstart.md)
+
+## The Workshop
+Use these [provided slides](TODO) for the introductory material.
+You can find the tutorial questions [here](tutorial.md)
 
 ## Where this talk has been presented
 This workshop has/ will be given at:
