@@ -56,6 +56,7 @@
 
 # XDP
 * [A practical introduction to XDP](https://www.linuxplumbersconf.org/event/2/contributions/71/attachments/17/9/presentation-lpc2018-xdp-tutorial.pdf) (Jesper Dangaard Brouer & Andy Gospodarek)
+* [How to filter packets super fast: XDP & eBPF](https://github.com/pratyushanand/learn-bpf)
 
 # Tutorials
 * [iovisor](https://github.com/iovisor/bcc/blob/master/docs/tutorial.md)
