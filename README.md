@@ -2,13 +2,12 @@
 (c|e)BFP workshop for Velocity 2019
 
 ## Background reading
-[This background slidedeck]() covers all the basics of containers that will assist in this workshop;
+[This background slidedeck](https://www.slideshare.net/MichaelKehoe3/ebpf-basics-149201150) covers all the basics of containers that will assist in this workshop;
 * What is cBPF
 * What is eBPF
-* History of BPF
-* Details on cBPF
-* Details on eBPF
-* eBPF uses
+* eBPF Uses
+* Introduction to XDP
+* Introduction to DPDK
 
 ## Quickstart
 Read the document [here](quickstart.md)
