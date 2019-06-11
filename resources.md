@@ -48,8 +48,10 @@
 * [Transparent Chaos Testing with Envoy, Cilium, and eBPF (https://docs.google.com/presentation/d/1gMlmXqH6ufnb8eNO10WqVjqrPRGAO5-1S1zjcGo1Zr4/edit#slide=id.g5a4a43c37e_0_238)
 ## Firewalls
 * [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/)
-## Observability
+## Observability/ Tracing
 * [Linux Observability with BPF](https://learning.oreilly.com/library/view/linux-observability-with/9781492050193/)
+* [Linux Observability with eBPF](https://sematext.com/blog/linux-kernel-observability-ebpf/)
+
 ## Performance Analysis
 * [Velocity 2017: Performance Analysis Superpowers with Linux eBPF](https://www.youtube.com/watch?v=bj3qdEDbCD4)
 * [LSFMM 2019 BPF Observability](https://www.slideshare.net/brendangregg/lsfmm-2019-bpf-observability-143092820)
