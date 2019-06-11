@@ -12,6 +12,6 @@
 1. Try the Python 'bitehist' (Lesson 9) example [here](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md#lesson-9-bitehistpy)
 2. Now it's time to try writing your own tool, try the 'disklatency' (Lesson 10) tutorial [here](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md#lesson-10-disklatencypy)
 
-
 ### Extra Study
-You can find extra tutorials from Sasha Goldstein [here](https://github.com/goldshtn/linux-tracing-workshop)
+* You can find extra tutorials from Sasha Goldstein [here](https://github.com/goldshtn/linux-tracing-workshop)
+* You can find extra examples in the Linux Kernel (written in C) [here](https://github.com/torvalds/linux/tree/master/samples/bpf)
