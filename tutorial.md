@@ -18,7 +18,7 @@
 
 ### Excercise 4: TCPConnect
 1. Try running the [tcpv4connect.py](https://github.com/iovisor/bcc/blob/master/examples/tracing/tcpv4connect.py) script in the [tracing folder](https://github.com/iovisor/bcc/tree/master/examples/tracing)
-2. Make a copy of this program and add functionality to print when a TCP connection is closed. 
+2. Make a copy of this program and add functionality to print when a TCP connection is closed (Hint `tcp_close`)
 
 ### Extra Study
 * You can find extra tutorials from Sasha Goldstein [here](https://github.com/goldshtn/linux-tracing-workshop)
