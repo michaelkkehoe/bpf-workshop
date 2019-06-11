@@ -41,6 +41,7 @@
 * [BPF Design Q&A](https://www.kernel.org/doc/html/latest/bpf/bpf_design_QA.html)
 * [Cilium BPF Newsletters](https://cilium.io/blog/categories/bpf%20newsletter/)
 * [BPF Features by Kernel version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
+* [Learn BPF](https://github.com/pratyushanand/learn-bpf)
 
 # BPF in the real world
 ## Chaos Engineering
