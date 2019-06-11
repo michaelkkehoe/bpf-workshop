@@ -13,7 +13,7 @@
 Read the document [here](quickstart.md)
 
 ## The Workshop
-Use these [provided slides](TODO) for the introductory material.
+Use these [provided slides](https://www.slideshare.net/MichaelKehoe3/ebpf-workshop) for the introductory material.
 You can find the tutorial questions [here](tutorial.md)
 
 ## Where this talk has been presented
