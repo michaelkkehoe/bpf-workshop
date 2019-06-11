@@ -23,9 +23,24 @@
 * [An eBPF overview, part 4: Working with embedded systems](https://www.collabora.com/news-and-blog/blog/2019/05/06/an-ebpf-overview-part-4-working-with-embedded-systems/)
 * [An eBPF overview, part 5: Tracing user processes](https://www.collabora.com/news-and-blog/blog/2019/05/14/an-ebpf-overview-part-5-tracing-user-processes/)
 * [Linux Kernel BPF Documentation](https://www.kernel.org/doc/Documentation/networking/filter.txt)
+* [BPF Man Page](http://man7.org/linux/man-pages/man2/bpf.2.html)
+
+# eBPF details
+## eBPF Maps
+* [A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
+* [BPF In Depth: Communicating with Userspace](https://blogs.oracle.com/linux/notes-on-bpf-1)
+
+## eBPF Program Types
+* [A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
+* [BPF: A tour of Program Types](https://blogs.oracle.com/linux/notes-on-bpf-1)
+
+## eBPF Helpers
+* [BPF In Depth: BPF Helper Functions](https://blogs.oracle.com/linux/notes-on-bpf-2)
 
 # Other
+* [BPF Design Q&A](https://www.kernel.org/doc/html/latest/bpf/bpf_design_QA.html)
 * [Cilium BPF Newsletters](https://cilium.io/blog/categories/bpf%20newsletter/)
+* [BPF Features by Kernel version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
 
 # BPF in the real world
 ## Chaos Engineering
