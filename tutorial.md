@@ -20,6 +20,12 @@
 1. Try running the [tcpv4connect.py](https://github.com/iovisor/bcc/blob/master/examples/tracing/tcpv4connect.py) script in the [tracing folder](https://github.com/iovisor/bcc/tree/master/examples/tracing)
 2. Make a copy of this program and add functionality to print when a TCP connection is closed (Hint `tcp_close`)
 
+### Excercise 5: DDOS 
+1. Write a program to detect a DDOS (More than 1000 packets in 1000000ns) coming to port TCP/80 from the "localhost" source-address by attaching a program to a raw socket (`attach_raw_socket()`)
+Hints:
+* Use the following command to test your program: `hping3 localhost -S -A -V -p 80 -i u100`
+* Look at the [dns_matching.py](https://github.com/iovisor/bcc/blob/master/examples/networking/dns_matching/dns_matching.py) and [dddos.py](https://github.com/iovisor/bcc/blob/master/examples/tracing/dddos.py) files
+
 ### Extra Study
 * You can find extra tutorials from Sasha Goldstein [here](https://github.com/goldshtn/linux-tracing-workshop)
 * You can find extra examples in the Linux Kernel (written in C) [here](https://github.com/torvalds/linux/tree/master/samples/bpf)
