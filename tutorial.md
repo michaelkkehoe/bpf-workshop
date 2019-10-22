@@ -18,7 +18,7 @@
 
 ### Excercise 4: TCPConnect
 1. Try running the [tcpv4connect.py](https://github.com/iovisor/bcc/blob/master/examples/tracing/tcpv4connect.py) script in the [tracing folder](https://github.com/iovisor/bcc/tree/master/examples/tracing)
-2. Make a copy of this program and add functionality to print when a TCP connection is closed (Hint `tcp_close`)
+2. Make a copy of this program and add functionality to print when a TCP connection is closed (Hint: You can find the available tracing funtions in `/sys/kernel/debug/tracing/available_filter_functions`)
 
 ### Excercise 5: DDOS 
 1. Write a program to detect a DDOS (More than 1000 packets in 1000000ns) coming to port TCP/80 from the "localhost" source-address by attaching a program to a raw socket (`attach_raw_socket()`)
