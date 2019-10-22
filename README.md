@@ -1,5 +1,5 @@
 # bpf-workshop
-(c|e)BFP workshop for Velocity 2019
+(c|e)BFP workshop
 
 ## Background reading
 [This background slidedeck](https://www.slideshare.net/MichaelKehoe3/ebpf-basics-149201150) covers all the basics of containers that will assist in this workshop;
@@ -19,6 +19,7 @@ You can find the tutorial questions [here](tutorial.md)
 ## Where this talk has been presented
 This workshop has/ will be given at:
 * Velocity San Jose 2019
+* SRE[in]Con19
 
 ## Contributions
 Contributions are welcome! If you found a bug or something to improve feel free to open an issue or a pull request. Please note that the entire repository is under MIT license and your contribution will be under that license.
@@ -31,7 +32,7 @@ I would like to thank the BPF community for providing an amazing set of resource
 BFP is an exciting and developing space and I wanted to build something 
 
 ### Can I use this repository to conduct my own public/ private workshop?
-Yes! But please let me ([@michaelkkehoe](https://twitter.com/michaelkkehoe) on Twitter) know, or update the above section.
+Yes! But please let me know via raising an issue, or update the above section.
 
 ### I found a bug
 See 'Contributions' above
