@@ -23,7 +23,7 @@
 ### Excercise 5: DDOS 
 1. Write a program to detect a DDOS (More than 1000 packets in 1000000ns) coming to port TCP/80 from the "localhost" source-address by attaching a program to a raw socket (`attach_raw_socket()`)
 > Hints:
-* Use the following command to test your program: `hping3 localhost -S -A -V -p 80 -i u100`
+* Use the `mtr` program to test your code: `sudo yum install mtr`
 * Look at the [dns_matching.py](https://github.com/iovisor/bcc/blob/master/examples/networking/dns_matching/dns_matching.py) and [dddos.py](https://github.com/iovisor/bcc/blob/master/examples/tracing/dddos.py) files
 
 ### Extra Study
